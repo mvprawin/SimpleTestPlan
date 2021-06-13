@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1623565674271,2197,Home Page,200,OK,Jakarta Users 1-1,text,true,,21254,0,1,1,915,0,0
+1623565676483,2568,News Page,200,OK,Jakarta Users 1-1,text,true,,75967,0,1,1,621,0,0
+1623565679055,1252,Home Page,200,OK,Jakarta Users 1-1,text,true,,889,0,1,1,610,0,0
+1623565680313,1282,History Page,404,Not Found,Jakarta Users 1-1,text,false,,850,0,1,1,639,0,0
